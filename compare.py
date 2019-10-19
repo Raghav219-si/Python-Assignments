@@ -4,8 +4,8 @@
 # Python program to make common list, without any occurring of duplicates.
 # *******************************************************
 # Extras.
-list_of_students = ['Micheal', 'John', 'Max']
-name = str(input('Check the name of the student :'))
+list_of_students = ['Michael', 'John', 'Max']
+name = input('Check the name of the student : ')
 if name in list_of_students:
     print('This student is enrolled.')
 # *****************************************************
